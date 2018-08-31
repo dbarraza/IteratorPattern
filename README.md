@@ -1,5 +1,5 @@
 # IteratorPattern
-Understanding the iterator pattern
+Understanding the Iterator Pattern
 
 Objetivo:
 
